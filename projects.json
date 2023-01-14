@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://hananm93.github.io/",
+      "git": "https://github.com/HananM93/project1",
+      "image": "https://i.imgur.com/gizegpw.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://somali-dishes.herokuapp.com/",
+      "git": "https://github.com/HananM93/project2",
+      "image": "https://user-images.githubusercontent.com/112597161/200979688-0a2b8401-4e61-406c-ac19-eaafe756b2df.png"
+    }
+  ]
